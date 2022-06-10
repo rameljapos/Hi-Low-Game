@@ -1,0 +1,4 @@
+#Fri Jun 10 13:10:27 SGT 2022
+base.0=C\:\\Users\\Angel Kristie\\StudioProjects\\Ramel_Tabuzo_High_Low_Game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
